@@ -1,2 +1,2 @@
-# payment-site
-Web app for payments
+# school-site
+Web app for school
